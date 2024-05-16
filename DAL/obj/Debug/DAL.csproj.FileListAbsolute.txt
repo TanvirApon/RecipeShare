@@ -1,0 +1,14 @@
+F:\Asp.net\RecipeShare\DAL\bin\Debug\DAL.dll.config
+F:\Asp.net\RecipeShare\DAL\bin\Debug\DAL.dll
+F:\Asp.net\RecipeShare\DAL\bin\Debug\DAL.pdb
+F:\Asp.net\RecipeShare\DAL\bin\Debug\EntityFramework.dll
+F:\Asp.net\RecipeShare\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Asp.net\RecipeShare\DAL\bin\Debug\EntityFramework.xml
+F:\Asp.net\RecipeShare\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Asp.net\RecipeShare\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Asp.net\RecipeShare\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Asp.net\RecipeShare\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Asp.net\RecipeShare\DAL\obj\Debug\DAL.dll
+F:\Asp.net\RecipeShare\DAL\obj\Debug\DAL.pdb
+F:\Asp.net\RecipeShare\DAL\obj\Debug\DAL.Migrations.initDB.resources
+F:\Asp.net\RecipeShare\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
